@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - PlayerWeapon
+  - GroundCheck
+  - Ground
+  - BulletSnipper
+  - Limits
+  - ShootEffect
+  - ShootEffectEnemy
+  - EnemyHead
+  - EnemyBackHead
+  - EnemyBack
+  - EnemyFront
+  - EnemyWeapon
+  - ParkingZone
+  - CityZone
+  - AirportZone
+  - FarmZone
+  - ForestZone
+  - River
+  - EnemyRightHand
+  - EnemySwat
+  - EnemySoldier
+  - Enemy
+  - Flashlight
+  - Ammo
+  - Heart
+  - Skull
+  - PauseMenu
+  - GameOverMenu
+  - Skull1
+  - Skull2
+  - Skull3
+  - Skull4
+  - Skull5
+  - Boss
+  - Soldier
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Interactable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
